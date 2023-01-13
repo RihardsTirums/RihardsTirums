@@ -2,9 +2,9 @@
 <img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 I am PHP Developer
 I am passionate about technologies.
- I am focused on PHP and backend Web development.
+I am focused on PHP and backend Web development.
 
-I’m currently working on Internet bank and crypto website
+I’m currently working on Internet bank and crypto website [Crypto Bank]((https://github.com/RihardsTirums/Bank_Crypto))
 
 Skills & Toolset
 
