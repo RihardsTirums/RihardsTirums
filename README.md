@@ -4,7 +4,7 @@ I am PHP Developer
 I am passionate about technologies.
 I am focused on PHP and backend Web development.
 
-I’m currently working on Internet bank and crypto website [Crypto Bank]((https://github.com/RihardsTirums/Bank_Crypto))
+I’m currently working on Internet bank and crypto website https://github.com/RihardsTirums/Bank_Crypto
 
 Skills & Toolset
 
